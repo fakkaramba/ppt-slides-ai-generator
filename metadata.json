@@ -1,0 +1,7 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "Create compelling presentations from a topic. This tool generates slides and transforms them into a video with synchronized audio narration, perfect for creating educational content or YouTube video clips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
